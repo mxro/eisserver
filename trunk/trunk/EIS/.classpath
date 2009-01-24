@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="EIS"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="mxro"/>
+	<classpathentry kind="src" path="EISServer"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/antlr-2.7.5.jar"/>
 	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/arq-extra.jar"/>

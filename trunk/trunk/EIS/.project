@@ -25,10 +25,5 @@
 			<type>2</type>
 			<location>/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/src</location>
 		</link>
-		<link>
-			<name>EIS</name>
-			<type>2</type>
-			<location>/Volumes/local/online/Programmierung/Java/MyLibraries/EIS</location>
-		</link>
 	</linkedResources>
 </projectDescription>
