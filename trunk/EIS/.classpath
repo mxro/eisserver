@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="EIS"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="mxro"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/arq-extra.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/arq.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/icu4j_3_4.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/iri.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/json.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/junit.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/lucene-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/stax-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/wstx-asl-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/mxro/lib/dom4j-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/mxro/lib/filedrop.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/mxro/lib/Filters.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/mxro/lib/jmyspell.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/mxro/lib/JTidy.jar"/>
+	<classpathentry kind="lib" path="/Volumes/local/online/Programmierung/Java/MyLibraries/mxro/lib/xstream-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
