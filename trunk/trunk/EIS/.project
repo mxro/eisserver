@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>EIS</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>mxro</name>
+			<type>2</type>
+			<location>/Volumes/local/online/Programmierung/eclipseMacBook/Default/mxro</location>
+		</link>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<location>/Volumes/local/online/Programmierung/Java/MyLibraries/3rdParty/Jena-2.5.7/src</location>
+		</link>
+		<link>
+			<name>EIS</name>
+			<type>2</type>
+			<location>/Volumes/local/online/Programmierung/Java/MyLibraries/EIS</location>
+		</link>
+	</linkedResources>
+</projectDescription>
